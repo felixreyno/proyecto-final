@@ -20,7 +20,7 @@ height: 30vh;
     transform: scale(1.2);
     transition-duration: 1s;
 }
-.fs-1 {
+.dale-estilo {
     font-family: 'Fasthand';
 }
 .bg-footer{
@@ -35,5 +35,11 @@ footer{
 }
 .boton-form:hover{
 background-color: rgb(0, 234, 255);
-
+}
+.productos:hover{
+    transform: scale(1.1);
+    transition-duration: 1s;
+}
+.tipografia-productos{
+    font-family: 'Montserrat', sans-serif;
 }

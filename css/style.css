@@ -1,0 +1,45 @@
+.carousel .portada {
+  height: 30vh;
+}
+
+.bg-footer {
+  background: #132d65;
+}
+
+footer {
+  color: rgb(255, 255, 255);
+}
+
+.boton-form {
+  background-color: blue;
+  color: white;
+}
+
+.boton-form:hover {
+  background-color: rgb(0, 234, 255);
+}
+
+.navbar-nav .nav-item .link {
+  color: #070777;
+}
+
+.animaciones:hover {
+  color: blue;
+  transform: scale(1.2);
+  transition-duration: 1s;
+}
+
+.link {
+  color: #070777;
+}
+
+.desplazar {
+  color: #070777;
+}
+
+.productos:hover {
+  transform: scale(1.1);
+  transition-duration: 1s;
+}
+
+/*# sourceMappingURL=style.css.map */

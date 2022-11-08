@@ -1,0 +1,17 @@
+.navbar-nav .nav-item .link {
+    color: $color-primario;
+}
+
+.animaciones:hover {
+    color: blue;
+    transform: scale(1.2);
+    transition-duration: 1s;
+}
+
+.link {
+    color: $color-primario;
+}
+
+.desplazar {
+    color: $color-primario;
+}

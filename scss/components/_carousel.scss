@@ -1,3 +1,5 @@
-.carousel .portada {
-    height: 30vh;
-    }
+.carousel{
+    &portada {
+        height: 30vh;
+        }
+}

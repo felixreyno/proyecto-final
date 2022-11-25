@@ -1,3 +1,9 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box
+}
+
 .tipografia-productos {
     font-family: 'Montserrat', sans-serif;
 }
@@ -6,6 +12,7 @@
     text-shadow: 4px 4px 4px gray;
     font-family: sans-serif;
 }
+
 .dale-estilo {
     font-family: 'Fasthand';
 }
